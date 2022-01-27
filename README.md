@@ -1,6 +1,6 @@
 # Eibela (ail)
 
-Contains Eibela paradigms (verbs)
+Contains Eibela paradigms (verbs;nouns)
 
 ## Data
 
